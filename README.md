@@ -4,6 +4,9 @@
 
 ### 📊 Aspiring Data Analyst | Turning Raw Data into Meaningful Insights
 
+Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
 <img src="https://komarev.com/ghpvc/?username=negidivyanshu9458-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/negidivyanshu9458-debug?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 
