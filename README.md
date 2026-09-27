@@ -1,37 +1,107 @@
-<h1 align="center">Hi 👋, I'm Divyanshu negi</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=negidivyanshu9458-debug&label=Profile%20views&color=0e75b6&style=flat" alt="negidivyanshu9458-debug" /> </p>
+# Hi there, I'm Divyanshu Negi 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=negidivyanshu9458-debug" alt="negidivyanshu9458-debug" /></a> </p>
+### 📊 Aspiring Data Analyst | Turning Raw Data into Meaningful Insights
 
-- 🔭 I’m currently working on [Exploratory Data Analysis (EDA)](https://github.com/negidivyanshu9458-debug/Exploratory-Data-Analysis-EDA-)
+<img src="https://komarev.com/ghpvc/?username=negidivyanshu9458-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/negidivyanshu9458-debug?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 
-- 🌱 I’m currently learning **Gen AI,Advanced Excel,Advanced SQL, Power BI, Python & Data Visualization**
+</div>
 
-- 👯 I’m looking to collaborate on [Economic-Sector-Analysis-using-Power-BI](https://github.com/negidivyanshu9458-debug/Economic-Sector-Analysis-using-Power-BI)
+---
 
-- 🤝 I’m looking for help with **Improving my SQL, Power BI and Data Visualization skills**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/negidivyanshu9458-debug](https://github.com/negidivyanshu9458-debug)
-
+- 🔭 I'm currently working on **[Exploratory Data Analysis (EDA)](https://github.com/negidivyanshu9458-debug/Exploratory-Data-Analysis-EDA-)**
+- 🌱 I'm currently learning **Gen AI, Advanced Excel, Advanced SQL, Power BI, Python & Data Visualization**
+- 👯 I'm looking to collaborate on **[Economic Sector Analysis using Power BI](https://github.com/negidivyanshu9458-debug/Economic-Sector-Analysis-using-Power-BI)**
+- 🤝 I'm looking for help with **improving my SQL, Power BI and Data Visualization skills**
+- 👨‍💻 All of my projects are available at **[github.com/negidivyanshu9458-debug](https://github.com/negidivyanshu9458-debug)**
 - 💬 Ask me about **SQL, Excel, Python, Power BI & Data Analytics**
+- 📫 Reach me at **negidivyanshu9458@gmail.com**
+- ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
 
-- 📫 How to reach me **negidivyanshu9458@gmail.com**
+---
 
-- ⚡ Fun fact **I enjoy turning raw data into meaningful insights**
+### 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=negidivyanshu9458-debug&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=negidivyanshu9458-debug&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="Divyanshu's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negidivyanshu9458-debug&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=negidivyanshu9458-debug&theme=algolia&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+### 📅 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=negidivyanshu9458-debug&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
+</div>
+
+> 📌 **Note:** The activity graph and streak stats above update automatically based on your public GitHub contributions — no manual editing needed.
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/negidivyanshu9458-debug/Exploratory-Data-Analysis-EDA-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=negidivyanshu9458-debug&repo=Exploratory-Data-Analysis-EDA-&theme=algolia&hide_border=true" alt="EDA Project" />
+</a>
+<a href="https://github.com/negidivyanshu9458-debug/Economic-Sector-Analysis-using-Power-BI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=negidivyanshu9458-debug&repo=Economic-Sector-Analysis-using-Power-BI&theme=algolia&hide_border=true" alt="Economic Sector Analysis" />
+</a>
+
+</div>
+
+*(Swap the `repo=` values above for any other repos you'd like pinned here.)*
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyanshu-negi-893530391/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyanshu-negi-893530391/" height="30" width="40" /></a>
-<a href="https://instagram.com/exe.divyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exe.divyanshu" height="30" width="40" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="power-bi" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=negidivyanshu9458-debug&show_icons=true&locale=en&layout=compact" alt="negidivyanshu9458-debug" /></p>
+### 🤝 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=negidivyanshu9458-debug&show_icons=true&locale=en" alt="negidivyanshu9458-debug" /></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/divyanshu-negi-893530391/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/exe.divyanshu" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="mailto:negidivyanshu9458@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=negidivyanshu9458-debug&" alt="negidivyanshu9458-debug" /></p>
+<div align="center">
+
+⭐️ *If you find my work useful, consider giving my repositories a star!*
+
+</div>
