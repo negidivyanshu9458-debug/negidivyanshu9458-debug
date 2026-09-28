@@ -6,10 +6,6 @@
 
 Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<<img align="right" alt="coding" width="200" src-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/7aa15835-0f84-492e-ac54-204df37f5343" />
- >
-
-
 <img src="https://komarev.com/ghpvc/?username=negidivyanshu9458-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/negidivyanshu9458-debug?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 
@@ -27,7 +23,8 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 - 💬 Ask me about **SQL, Excel, Python, Power BI & Data Analytics**
 - 📫 Reach me at **negidivyanshu9458@gmail.com**
 - ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
-
+<<img align="right" alt="coding" width="200" src-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/7aa15835-0f84-492e-ac54-204df37f5343" />
+ >
 ---
 
 ### 🏆 GitHub Trophies
