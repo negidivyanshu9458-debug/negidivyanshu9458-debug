@@ -23,8 +23,7 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 - 💬 Ask me about **SQL, Excel, Python, Power BI & Data Analytics**
 - 📫 Reach me at **negidivyanshu9458@gmail.com**
 - ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
-<<img align="right" alt="coding" width="200" src-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/7aa15835-0f84-492e-ac54-204df37f5343" />
- >
+<<img align="right" alt="coding" width="200" src-<img width="680" height="428" alt="image" src=<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/606e16ce-24bf-4416-ba1a-04767461b0dd" />>
 ---
 
 ### 🏆 GitHub Trophies
