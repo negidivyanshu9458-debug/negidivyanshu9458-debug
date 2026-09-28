@@ -6,7 +6,7 @@
 
 Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 </div>
@@ -14,6 +14,8 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 ---
 
 ### 🚀 About Me
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🔭 I'm currently working on **[Exploratory Data Analysis (EDA)](https://github.com/negidivyanshu9458-debug/Exploratory-Data-Analysis-EDA-)**
 - 🌱 I'm currently learning **Gen AI, Advanced Excel, Advanced SQL, Power BI, Python & Data Visualization**
 - 👯 I'm looking to collaborate on **[Economic Sector Analysis using Power BI](https://github.com/negidivyanshu9458-debug/Economic-Sector-Analysis-using-Power-BI)**
