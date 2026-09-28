@@ -6,7 +6,7 @@
 
 Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<img align="right" alt="coding" width="400" src=<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/57dbed97-7006-4fec-89ab-15762a5308ca" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/57dbed97-7006-4fec-89ab-15762a5308ca" />
 
 
 
