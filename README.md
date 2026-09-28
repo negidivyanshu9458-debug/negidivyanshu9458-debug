@@ -14,9 +14,6 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 ---
 
 ### 🚀 About Me
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/606e16ce-24bf-4416-ba1a-04767461b0dd" />
-
 - 🔭 I'm currently working on **[Exploratory Data Analysis (EDA)](https://github.com/negidivyanshu9458-debug/Exploratory-Data-Analysis-EDA-)**
 - 🌱 I'm currently learning **Gen AI, Advanced Excel, Advanced SQL, Power BI, Python & Data Visualization**
 - 👯 I'm looking to collaborate on **[Economic Sector Analysis using Power BI](https://github.com/negidivyanshu9458-debug/Economic-Sector-Analysis-using-Power-BI)**
