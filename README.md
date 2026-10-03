@@ -8,7 +8,8 @@
 Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-
+  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 </div>
 
