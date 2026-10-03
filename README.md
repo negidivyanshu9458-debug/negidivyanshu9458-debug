@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 - 🤝 I'm looking for help with **improving my SQL, Power BI and Data Visualization skills**
 - 👨‍💻 All of my projects are available at **[github.com/negidivyanshu9458-debug](https://github.com/negidivyanshu9458-debug)**
 - 💬 Ask me about **SQL, Excel, Python, Power BI & Data Analytics**
-- 📫 Reach me at **https://www.linkedin.com/in/divyanshu-negi-893530391/?isSelfProfile=true**
+- 📫 Reach me at **https://www.linkedin.com/in/divyanshu-negi-893530391/**
 - ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
 
 <br clear="right" />
