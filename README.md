@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **negidivyanshu9458@gmail.com** For Collaboration/Project o
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
   <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- <a href="https://www.linkedin.com/in/divyanshu-negi-893530391/?isSelfProfile=true">
+
 </div>
 
 ---
